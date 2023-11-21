@@ -17,3 +17,4 @@ class BookDetailsSerializer(ModelSerializer):
         fields = '__all__'
 
 
+
